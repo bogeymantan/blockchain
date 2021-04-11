@@ -39,10 +39,7 @@ pip3 install virtualenv
 * Rajiv G
 * Pradyumna M
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-
 
 ## Acknowledgments
 
-* This project was made as an assignment for Rapidd Academy class
+* Google, YouTube
