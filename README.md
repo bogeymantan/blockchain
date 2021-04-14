@@ -19,7 +19,7 @@ pip3 install virtualenv
 * Clone this file to your system
 * Create virtualenv in the folder and activate
   ```
-  virtualenv venv
+  python3 -m venv env
   venv\Scripts\activate
   ```
 * Now install hashlib, flask, datetime , json using pip
